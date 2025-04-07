@@ -1,0 +1,10 @@
+.List {
+	border: 2px solid lightblue;
+	background-color: skyblue;
+
+	.ListWrapper {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+}
